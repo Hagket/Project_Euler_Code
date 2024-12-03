@@ -1,4 +1,5 @@
 #Problem 19#
+#This code has not been finished yet b/c problem 19 has not been completed on ProjectEuler account#
 monthDays={"January":31,"February":28,"March":31,"April":30,"May":31,"June":30,"July":31,"August":31,"September":30,"October":31,"November":30,"December":31}
 monthDaysList=["January","February","March","April","May","June","July","August","September","October","November","December"]
 daysOfWeek=["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
