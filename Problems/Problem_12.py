@@ -1,5 +1,5 @@
 # Problem 12#
-#This solution is too slow. The divisors function needs to be optimized to find divisors quicker#
+#This code is not yet complete. Final step is to find all products of the prime factors and add them to the divisors list within divisors()#
 import sys
 import math
 
